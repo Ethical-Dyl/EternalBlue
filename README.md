@@ -28,7 +28,7 @@ Now that I have my foothold into the system I used the hashdump command in my me
 
 Now that I have the hashes of the users of the machine I will attempt to pass the hash aka log on to the machine with the hash of a user, for this I will be using the Metasploit module 'windows/smb/psexec' after setting all the parameters I will now run the exploit:
 
-<img width="602" alt="image" src="https://user-images.githubusercontent.com/66540055/193922192-68a39b9e-5a22-4204-927d-b2a5c6d9d94d.png">
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/66540055/193964677-349f6fe1-3ab5-4535-873b-11ef889acde4.png">
 
 Awesome! It works and I now have another foothold into the system without having to run a hefty exploit. 
 
