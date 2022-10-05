@@ -22,7 +22,7 @@ Using the exploit/windows/smb/ms17_010_eternalblue module I defined the RHOSTS a
 # Aquiring hashes
 Now that I have my foothold into the system I used the hashdump command in my meterpreter session to query the passwords stored in the SAM database:
 
-<img width="754" alt="image" src="https://user-images.githubusercontent.com/66540055/193918277-ef1d101d-6e9c-4d97-8e7e-180ec5d95cbe.png">
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/66540055/193964503-8a48b95f-09b4-4795-b219-35d10da312ea.png">
 
 # Passing the hash
 
